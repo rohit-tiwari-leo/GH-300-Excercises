@@ -104,17 +104,7 @@ git diff --stat HEAD
 
 > **Expected:** Only `user_api.py` in the diff. Any other file = scope violation.
 
-#### Step 4 — Observe reproducibility
 
-Undo the accepted suggestion (`Ctrl+Z`), then re-trigger Copilot on the same comment three times (cycle with `Alt+]`). Note whether the three suggestions are structurally equivalent. Record in your worksheet:
-
-| Run | Uses Pydantic model? | Returns JSONResponse? | Consistent status code? |
-|-----|---------------------|----------------------|------------------------|
-| 1   |                     |                      |                        |
-| 2   |                     |                      |                        |
-| 3   |                     |                      |                        |
-
-> **Reproducibility lesson:** Vague single-task prompts produce varied outputs across runs. Structured prompts narrow the variance.
 
 ---
 
