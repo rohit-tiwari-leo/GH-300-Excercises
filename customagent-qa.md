@@ -1,7 +1,7 @@
 # Lab: Create a GitHub Copilot Custom Agent for Manual & Automation Testing
 
 **Course:** GitHub Copilot for Software Testing  
-**Lab Number:** 06  
+ 
 **Duration:** 75–90 Minutes  
 **Difficulty:** Intermediate  
 **Audience:** Manual Testers, QA Engineers, SDETs, Automation Testers
