@@ -1,6 +1,6 @@
-# Lab: Measuring GitHub Copilot Productivity Using Engineering Metrics
+# Use Case: Measuring GitHub Copilot Productivity Using Engineering Metrics
 
-## Lab Overview
+## Use Case Overview
 
 ### Scenario
 
