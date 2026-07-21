@@ -14,7 +14,7 @@ Instead of focusing only on coding, you will practice:
 - Creating Copilot Instructions
 - Iteratively improving AI-generated code
 - Reviewing and validating AI suggestions
-- Understanding when to use Chat, Edit, Agent, and Plan modes
+- Understanding when to use Chat, Agent, and Plan modes
 
 ---
 
